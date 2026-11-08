@@ -72,10 +72,13 @@ Currently, I work as an AVP and Salesforce Developer, focusing on enterprise Sal
 
 ## Current Goals
 
-- Expand expertise in AI-driven Salesforce solutions
-- Continue contributing to enterprise-scale digital transformation programs
-- Build a public portfolio of technical projects and learning resources
-- Share knowledge with the Salesforce and software engineering community
+Current Learning & Goals
+
+- Short-Term: Master end-to-end ML model lifecycle management (drift monitoring, feature store integration, temporal validation strategies) and design robust AI systems with explicit governance.
+
+- Long-Term: Lead multi-cloud enterprise transformations that seamlessly integrate predictive/generative AI systems into core transaction workflows.
+
+
 
 ## Connect With Me
 
