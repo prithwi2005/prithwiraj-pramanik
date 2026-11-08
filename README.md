@@ -79,5 +79,5 @@ Currently, I work as an AVP and Salesforce Developer, focusing on enterprise Sal
 
 ## Connect With Me
 
-- LinkedIn: [[Add LinkedIn URL](https://www.linkedin.com/in/prithwiraj-pramanik-97a8156a/)]
-- Email: [Professional Email]
+- LinkedIn: [[Prithwiraj Pramanik](https://www.linkedin.com/in/prithwiraj-pramanik-97a8156a/)]
+
