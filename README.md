@@ -70,6 +70,14 @@ Currently, I work as an AVP and Salesforce Developer, focusing on enterprise Sal
 - DevOps and CI/CD
 - Technical Leadership
 
+## Technical Interests & Problem Domains
+
+I am particularly drawn to technical challenges at the intersection of enterprise software engineering and applied AI/ML: 
+- Production AI/ML Governance & MLOps: Building resilient pipelines for real-time model scoring, drift detection, and automated retraining workflows.
+- Enterprise AI Integration & RAG Systems: Architecting secure, role-based Knowledge Assistants (Retrieval-Augmented Generation) and multi-agent coordination systems for enterprise decision-making.
+- Large-Scale Data Integration: Designing low-latency, fault-tolerant REST/SOAP microservices and distributed ETL flows across multi-cloud environments.
+- Bias Detection & Ethics in AI: Developing automated evaluation frameworks (like AppExchange tools) to identify and mitigate operational bias in customer-facing workflows.
+  
 ## Current Goals
 
 Current Learning & Goals
